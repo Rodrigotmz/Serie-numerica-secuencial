@@ -22,3 +22,5 @@ El algoritmo recibe un numero "n" y este imprimira la siguiente secuencia.
 6 = 0 1 2 2 3 3 3
 
 n = .......
+
+![Screeshot](Captura%20de%20pantalla%202024-07-22%20195321.png)
