@@ -1,4 +1,3 @@
-
 ##  Secuencia numérica en base a n.
 
 Hace años cuando estaba estiando la ingeniera, en un examen un profesor me solicito hacer este ejercicio.
@@ -9,10 +8,17 @@ En su momento no lo entendi, pero hoy creo haberlo resuelto parcialmente.
 
 El algoritmo recibe un numero "n" y este imprimira la siguiente secuencia.
 0 = 0
+
 1 = 0 1
+
 2 = 0 1 2
+
 3 = 0 1 2 2
+
 4 = 0 1 2 2 3
+
 5 = 0 1 2 2 3 3
+
 6 = 0 1 2 2 3 3 3
+
 n = .......
